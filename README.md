@@ -18,14 +18,14 @@ A simple Python program to manage and organize meetings for the Barracoders codi
 1. **Clone the repository** (or download the `meeting_calendar.py` script):
 
     ```bash
-    git clone https://github.com/your-username/barracoders-meeting-calendar.git
-    cd barracoders-meeting-calendar
+    git clone https://github.com/Barracoders/python-calendar.git
+    cd python-calendar
     ```
 
 2. **Run the program**:
 
     ```bash
-    python meeting_calendar.py
+    python main.py
     ```
 
 3. **Follow the on-screen instructions** to add, view, or delete meetings.
